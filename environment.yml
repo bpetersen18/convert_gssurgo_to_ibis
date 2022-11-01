@@ -1,0 +1,8 @@
+name: convert_gssurgo
+channels:
+  - conda-forge
+  - base
+  - R
+dependencies:
+  - r-base
+  - r-tidyverse
